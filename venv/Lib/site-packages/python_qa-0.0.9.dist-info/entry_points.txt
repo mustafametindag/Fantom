@@ -1,0 +1,2 @@
+[pytest11]
+python_qa = python_qa.conftest
