@@ -11,7 +11,7 @@ db.sqlite3
 
 /staticfiles/
 
-# Virtual environment klasörü
+
 /env/
 
 
